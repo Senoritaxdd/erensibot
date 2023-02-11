@@ -1,0 +1,2 @@
+# erensibot
+Discord Erensi Bot
